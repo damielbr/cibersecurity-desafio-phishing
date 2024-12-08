@@ -1,4 +1,4 @@
-# Phishing utilizando setoolkit p/ capturar senhas do Gmail
+# Utilizando setoolkit p/ capturar senhas do Twitter
 
 ### Ferramentas
 
